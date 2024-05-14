@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "fabric-network": "^2.2.20"
+  }
+}
